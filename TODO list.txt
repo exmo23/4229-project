@@ -1,0 +1,21 @@
+Immediate Steps
+1. Make a background environment
+2. Find models to import in opengl
+3. Determine scope of modeling (import or model manually)
+4. Import test model for animation
+5. Add basic animation for testing
+
+Later Things That Need To Happen
+1. Texturing background
+2. Texturing model
+3. Making light work with animated normals
+4. Animating complex model
+
+Stretch Goal Stuff
+1. Figure out how to make UI elements
+2. Add UI elements
+3. Research particles to add footstep effects
+4. Research projectiles
+
+
+Useful OpenGL Links
